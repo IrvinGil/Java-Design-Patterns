@@ -16,9 +16,11 @@ reused again and again.
 * Singleton pattern is mostly used in multithreaded and database applications. It is
 used in logging, caching, thread pools, configuration settings etc.
 ### To creat a singleton class, we need to have static member of class, private constructor and static factory method:
-* **Static member:** It gets memory only once because of static, it contains the instance of 
+* **Static member:** It gets memory only once because it's static, it contains the instance of 
 the Singleton class.
 * **Private constructor:** It will prevent to instantiate the Singleton class from outside
 the class.
 * **Static Factory Method:** This provides the global point of access to the singleton
 object and returns the instance to the caller.
+### UML for Singleton Design Pattern
+<img src="singleton.jpg">
