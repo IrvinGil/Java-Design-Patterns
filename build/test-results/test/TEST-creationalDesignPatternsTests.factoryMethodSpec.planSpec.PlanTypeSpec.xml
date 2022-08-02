@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="creationalDesignPatternsTests.factoryMethodSpec.planSpec.PlanTypeSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-01T02:02:34" hostname="synacy-irvinGil" time="0.16">
-  <properties/>
-  <testcase name="getRate() should return 7.50 from Commercial Plan" classname="creationalDesignPatternsTests.factoryMethodSpec.planSpec.PlanTypeSpec" time="0.16"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
