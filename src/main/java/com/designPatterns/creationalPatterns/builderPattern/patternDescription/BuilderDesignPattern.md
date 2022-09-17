@@ -3,7 +3,7 @@ Builder Pattern says that ***"construct a complex object from simple objects usi
 
 It is mostly used when the object can't be created in a single step like in the de-serialization of a complex object.
 
-## Advantage if Builder Design Pattern
+## Advantage of Builder Design Pattern
 The main advantages of Builder Patters are as follows:
 * It provides clear separation between the construction and representation of an object.
 * It provides better control over construction process.
