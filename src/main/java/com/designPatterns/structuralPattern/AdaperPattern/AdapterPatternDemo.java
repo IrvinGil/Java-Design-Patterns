@@ -7,5 +7,8 @@ public class AdapterPatternDemo {
         CreditCard targetInterface = new BankCustomer();
         targetInterface.giveBankDetails();
         System.out.println(targetInterface.getCreditCard());
+
+
     }
+
 }
