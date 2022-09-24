@@ -12,7 +12,7 @@ more details into Java programming design patterns.
 - Recommended to open and run using [INTELLIJ IDEA](https://www.jetbrains.com/idea/download/#section=linux).
 
 ## Run
-There is more setup needed other than the Java version mentioned above and the recommended IDE. Just navigate through the `src/java/com.designPatterns` and there you will find the design patterns sorted and organized in their own directories.
+There is no more setup needed other than the Java version mentioned above and the recommended IDE. Just navigate through the `src/java/com.designPatterns` and there you will find the design patterns sorted and organized in their own directories.
 Find the directory that is named: `/patternDescription` to read about the description of the design pattern.
 
 In order to run the desired design pattern, find the class on the directory that has ***Main*** attached to the name. This indicated that the class is a main class of a pattern domain.
