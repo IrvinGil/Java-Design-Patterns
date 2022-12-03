@@ -1,7 +1,5 @@
 package com.designPatterns.structuralPattern.BridgePattern;
 
-import com.designPatterns.structuralPattern.BridgePattern.Question;
-
 public class QuestionManager {
     protected Question question;
     public String catalog;
@@ -18,8 +16,8 @@ public class QuestionManager {
         question.previousQuestion();
     }
 
-    public void newQuestion(String que){
-        question.newQuestion(que);
+    public void newQuestion(String question){
+        this.question.newQuestion(question);
     }
 
     public void delete(String passThisQuestion) {

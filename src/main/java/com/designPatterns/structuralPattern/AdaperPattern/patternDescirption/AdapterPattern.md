@@ -19,4 +19,4 @@ These are the following specifications for the adapter pattern:
 3. Adaptee Clas - This is the class which is used by the Adapter class to reuse the existing functionality and modify them for desired use.
 4. Client - This class will interact with the Adapter Class.
 
-<img src="img.png">
+<img src="adapter_pattern_uml.png">

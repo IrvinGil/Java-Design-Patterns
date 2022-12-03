@@ -14,4 +14,4 @@ The Bridge Pattern is also know as **Handle or Body**.
 - It is mostly used in those places where changes made in the implementation does not affect the clients.
 
 ## UML of Bridge Pattern
-<img src="img.png">
+<img src="bridge_pattern_uml.png">

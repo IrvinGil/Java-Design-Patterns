@@ -1,7 +1,5 @@
 package com.designPatterns.creationalPatterns.singletonPattern;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

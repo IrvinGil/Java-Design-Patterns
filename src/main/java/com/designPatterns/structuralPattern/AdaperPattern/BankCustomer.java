@@ -1,7 +1,6 @@
 package com.designPatterns.structuralPattern.AdaperPattern;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 // This is the Adapter Class

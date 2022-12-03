@@ -2,9 +2,6 @@ package creationalDesignPatternsTests.abstractFactorySpec.factoryAndClientSpec
 
 import com.designPatterns.creationalPatterns.abstractFactoryPattern.BankFactory
 import com.designPatterns.creationalPatterns.abstractFactoryPattern.bank.Bank
-import com.designPatterns.creationalPatterns.abstractFactoryPattern.bank.HDFC
-import com.designPatterns.creationalPatterns.abstractFactoryPattern.bank.ICICI
-import com.designPatterns.creationalPatterns.abstractFactoryPattern.bank.SBI
 import spock.lang.Specification
 
 class AbstractFactorySpec extends Specification {
