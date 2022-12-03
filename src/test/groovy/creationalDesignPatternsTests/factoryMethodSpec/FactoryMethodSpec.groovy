@@ -1,10 +1,10 @@
 package creationalDesignPatternsTests.factoryMethodSpec
 
-import com.designPatterns.creationalPatterns.factoryMethodPattern.GetPlanFactory
-import com.designPatterns.creationalPatterns.factoryMethodPattern.plan.CommercialPlan
-import com.designPatterns.creationalPatterns.factoryMethodPattern.plan.DomesticPlan
-import com.designPatterns.creationalPatterns.factoryMethodPattern.plan.InstitutionalPlan
-import com.designPatterns.creationalPatterns.factoryMethodPattern.plan.Plan
+import com.designpatterns.creational.factorymethod.GetPlanFactory
+import com.designpatterns.creational.factorymethod.plan.CommercialPlan
+import com.designpatterns.creational.factorymethod.plan.DomesticPlan
+import com.designpatterns.creational.factorymethod.plan.InstitutionalPlan
+import com.designpatterns.creational.factorymethod.plan.Plan
 import spock.lang.Specification
 
 class FactoryMethodSpec extends Specification {
