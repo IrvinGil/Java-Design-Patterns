@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="creationalDesignPatternsTests.abstractFactorySpec.factoryAndClientSpec.AbstractFactorySpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-01T23:47:11" hostname="synacy-irvinGil" time="0.148">
-  <properties/>
-  <testcase name="getBank() should return expected object with respect to passed argument [testArgument: HDFC, testResult: HDFC BANK, #0]" classname="creationalDesignPatternsTests.abstractFactorySpec.factoryAndClientSpec.AbstractFactorySpec" time="0.133"/>
-  <testcase name="getBank() should return expected object with respect to passed argument [testArgument: ICICI, testResult: ICICI BANK, #1]" classname="creationalDesignPatternsTests.abstractFactorySpec.factoryAndClientSpec.AbstractFactorySpec" time="0.005"/>
-  <testcase name="getBank() should return expected object with respect to passed argument [testArgument: SBI, testResult: SBI BANK, #2]" classname="creationalDesignPatternsTests.abstractFactorySpec.factoryAndClientSpec.AbstractFactorySpec" time="0.004"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
