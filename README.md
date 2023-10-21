@@ -1,15 +1,14 @@
 # Java-Design-Patterns
 
-**Author:** *Engr. Irvin Gil Mercado*
+![java version](https://img.shields.io/badge/Java-v11-blue)
+![gradle version](https://img.shields.io/badge/Gradle-7.4-blue)
+![gradle version](https://img.shields.io/badge/IntelliJ_IDEA-purple)
+
 
 This repository is created to house and demonstrate the different design patterns used in java programming.
 
-Copyright: All the codes in this repository are referenced from the [JavaTPoint](https://www.javatpoint.com/design-patterns-in-java) website. Go check that our for
+> Copyright: All the codes in this repository are referenced from the [JavaTPoint](https://www.javatpoint.com/design-patterns-in-java) website. Go check that our for
 more details into Java programming design patterns.
-
-## Pre-requisites
-- Java 11
-- Recommended to open and run using [INTELLIJ IDEA](https://www.jetbrains.com/idea/download/#section=linux).
 
 ## Run
 There is no more setup needed other than the Java version mentioned above and the recommended IDE. Just navigate through the `src/java/com.designpatterns` and there you will find the design patterns sorted and organized in their own directories.
