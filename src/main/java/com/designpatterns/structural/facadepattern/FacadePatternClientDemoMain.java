@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class FacadePatternClient {
+public class FacadePatternClientDemoMain {
 
     private static int choice;
 
