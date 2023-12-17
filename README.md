@@ -14,7 +14,7 @@ more details into Java programming design patterns.
 There is no more setup needed other than the Java version mentioned above and the recommended IDE. Just navigate through the `src/java/com.designpatterns` and there you will find the design patterns sorted and organized in their own directories.
 Find the directory that is named: `/patternDescription` to read about the description of the design pattern.
 
-In order to run the desired design pattern, find the class on the directory that has ***Main*** attached to the name. This indicated that the class is a main class of a pattern domain.
+In order to run the desired design pattern, find the class on the directory that has ***Main*** or ***Client*** attached to the name. This indicated that the class is a main class of a pattern domain.
 You can run the `main` class of the pattern domain, and it will work independently.
 
 <img src="src/static/img.png">
